@@ -1,0 +1,2 @@
+# ConfigData
+Configuraciones
